@@ -5,6 +5,7 @@
 ![alt_text](https://github.com/caleb-g23/Uber_Weather_Project/blob/main/Resources/Weather_API_Summary.png)
 
 ## Intro
+(This project was in collaboration with two other students)
 Our project takes a look at Uber pickup data in New York City from January 1, 2015 to June 30, 2015. We decided to use a data set that we found on Kaggle and see how different factors impact pickups. The questions we decided to ask are the following:
 
 - How does precipitation impact pickups?
